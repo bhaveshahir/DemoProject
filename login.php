@@ -75,7 +75,11 @@ button:hover {
 
 <form action="" method="POST" style="border:1px solid #ccc">
   <div class="container">
-    <h1>Register Form..............;;;;;;;;</h1>
+<<<<<<< HEAD
+    <h1>Register Form</h1>
+=======
+    <h1>Register Formd</h1>
+>>>>>>> parent of e18739e... Update login.php
     <p>Please fill in this form to create an account.</p>
     <hr>
 
