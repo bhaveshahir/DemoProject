@@ -104,7 +104,7 @@ button:hover {
 		$name =$_POST['name'];
 		$password =$_POST['password'];
 		$cpassword =$_POST['cpassword'];
+        
 		echo $name,$password,$cpassword;
-		
 	}
 ?>
