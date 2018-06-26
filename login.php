@@ -75,7 +75,7 @@ button:hover {
 
 <form action="" method="POST" style="border:1px solid #ccc">
   <div class="container">
-    <h1>Register Form</h1>
+    <h1>Register Form..............;;;;;;;;</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
